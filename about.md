@@ -12,4 +12,5 @@ I am the proud father of Jacob and Emma and husband to Patti who works in Natura
 
 Thanks for visiting, Erik eriknylander@gmail.com  
 
+***
 [Home](index.md)
