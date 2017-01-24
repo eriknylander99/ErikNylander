@@ -10,4 +10,6 @@ My interests include the use of data to inform education practices and identifyi
 
 I am the proud father of Jacob and Emma and husband to Patti who works in Natural Resources Management. This site was built using [R-Markdown](http://rmarkdown.rstudio.com/) with markdown files and [GitHub Pages](https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3).
 
-Thanks for visiting, Erik eriknylander@gmail.com
+Thanks for visiting, Erik eriknylander@gmail.com  
+
+[Home](index.md)
