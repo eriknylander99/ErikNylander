@@ -15,7 +15,7 @@ A few of the projects that I have been working on.
 
 * [Classifying Dcouments in Reuter's Data Set](https://github.com/eriknylander99/DATA620/blob/master/DATA620_Reuter's_Document_Classifier.ipynb)  
 
-* [\@realDonaldTrump: A Sentiment and Network Analysis](https://github.com/eriknylander99/DATA620/blob/master/Trump_Sentiment_en_td_bc_sn.ipynb)  
+* [@realDonaldTrump: A Sentiment and Network Analysis](https://github.com/eriknylander99/DATA620/blob/master/Trump_Sentiment_en_td_bc_sn.ipynb)  
 
 
 #### Deep Learning:  
