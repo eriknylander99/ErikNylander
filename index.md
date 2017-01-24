@@ -1,9 +1,3 @@
-# Erik Nylander  
-
-Educator and Data Scientist  
-
-***
-
 [Home](index.md)
 
 [Projects](projects.md)
