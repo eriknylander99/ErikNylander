@@ -4,11 +4,11 @@ Educator and Data Scientist
 
 ***
 
-[Home]()
+[Home](index.md)
 
-[Projects](https://github.com/eriknylander99/nylander/projects.md)
+[Projects](projects.md)
 
-[About](https://github.com/eriknylander99/nylander/about.md)
+[About](about.md)
 
 [GitHub - eriknylander99](https://github.com/eriknylander99)
 
