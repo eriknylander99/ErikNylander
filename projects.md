@@ -6,7 +6,7 @@ A few of the projects that I have been working on.
 
 #### Web Analytics:  
 
-* [Measures of Centrality and Bowl Eligibility in College Football](https://github.com/eriknylander99/nylander/about.md)  
+* [Measures of Centrality and Bowl Eligibility in College Football](https://github.com/eriknylander99/DATA620/blob/master/DATA620%20Project%201%20Centrality%20and%20Bowl%20Eligibility.ipynb)  
 
 * [An Analysis of the Davis Southern Club Women data set](https://github.com/eriknylander99/DATA620/blob/master/Detzel_Nylander_Week6.ipynb)  
 
