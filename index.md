@@ -6,5 +6,5 @@
 
 [GitHub - eriknylander99](https://github.com/eriknylander99)
 
-[Resume]()
+[Resume](Erik_Nylander_Resume.pdf)
 
