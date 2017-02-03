@@ -20,7 +20,7 @@ A few of the projects that I have been working on.
 
 #### Deep Learning:  
 
-* [Classifying the MNIST Data Set using a COnvolutional Neural Network](https://github.com/eriknylander99/DATA622/blob/master/cnn2_mnist.py)
+* [Classifying the MNIST Data Set using a Convolutional Neural Network](https://github.com/eriknylander99/DATA622/blob/master/cnn2_mnist.py)
 
 * [Emotion Detection in Images](https://github.com/eriknylander99/DATA622/tree/master/emotion_detection)
     + [Algorithm Performance: Team Name = ErikNylander](https://inclass.kaggle.com/c/emotion-detection-from-facial-expressions/leaderboard/public)
